@@ -1,0 +1,16 @@
+My 2D Dungeon Instructions
+--------------------------
+Use the arrow keys or WASD to move the hero character
+
+
+
+How To Win:
+-----------
+Collect all 5 mutated pumpkins
+Collect apples to feed to stone monsters to get through passageways
+
+
+
+How To Lose:
+------------
+Get attacked by blob monster 5 times

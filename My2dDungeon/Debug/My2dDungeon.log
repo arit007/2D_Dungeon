@@ -1,0 +1,7 @@
+﻿  GameCore.cpp
+C:\Users\Ari\Desktop\GMU\Coding For Game Design\My2dDungeon\My2dDungeon\GameCore.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ari\Desktop\GMU\Coding For Game Design\My2dDungeon\My2dDungeon\GameCore.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ari\Desktop\GMU\Coding For Game Design\My2dDungeon\My2dDungeon\GameCore.cpp(50,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ari\Desktop\GMU\Coding For Game Design\My2dDungeon\My2dDungeon\GameCore.cpp(51,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  My2dDungeon.vcxproj -> C:\Users\Ari\Desktop\GMU\Coding For Game Design\My2dDungeon\Debug\My2dDungeon.exe
+  0 File(s) copied
